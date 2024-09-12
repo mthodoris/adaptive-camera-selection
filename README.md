@@ -1,6 +1,6 @@
 # adaptive-camera-selection
 Best view selected from multicamera system
-![](https://github.com/mthodoris/active-camera-selection/demogif.gif)
+![Alt Text](https://github.com/mthodoris/adaptive-camera-selection/blob/main/demogif.gif)
 
 ROS version: noetic
 Install ROS noetic instructions
